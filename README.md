@@ -4,7 +4,7 @@ Material do curso:
 
 Notion com o conteúdo do curso:
 
-https://thorn-shear-2eb.notion.site/Fundamentos-do-Pythion-I-30-Horas-24bd5b5624788078aed1ee702a70ffa4
+https://thorn-shear-2eb.notion.site/Programa-o-em-Python-60-Horas-227d5b5624788067a568e70208f3e7f7
 
 Livro: Introdução a Python com aplicações de sistemas operacionais
 
