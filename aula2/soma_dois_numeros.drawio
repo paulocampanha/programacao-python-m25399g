@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.0">
+  <diagram name="Página-1" id="nvTNV861r9FWONqWKQyU">
+    <mxGraphModel dx="1426" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-mMTL7mCCUQiWlh8SyJa-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-mMTL7mCCUQiWlh8SyJa-1" target="-mMTL7mCCUQiWlh8SyJa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mMTL7mCCUQiWlh8SyJa-1" value="inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-mMTL7mCCUQiWlh8SyJa-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-mMTL7mCCUQiWlh8SyJa-2" target="-mMTL7mCCUQiWlh8SyJa-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mMTL7mCCUQiWlh8SyJa-2" value="inteiro valor1, valor2, soma" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="165" y="130" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-mMTL7mCCUQiWlh8SyJa-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-mMTL7mCCUQiWlh8SyJa-5" target="-mMTL7mCCUQiWlh8SyJa-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mMTL7mCCUQiWlh8SyJa-5" value="valor1 = 13" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="175" y="220" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-mMTL7mCCUQiWlh8SyJa-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-mMTL7mCCUQiWlh8SyJa-7" target="-mMTL7mCCUQiWlh8SyJa-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mMTL7mCCUQiWlh8SyJa-7" value="valor2 = 26" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="175" y="310" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-mMTL7mCCUQiWlh8SyJa-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-mMTL7mCCUQiWlh8SyJa-10" target="-mMTL7mCCUQiWlh8SyJa-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mMTL7mCCUQiWlh8SyJa-10" value="soma = valor1 + valor2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="178" y="393" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-mMTL7mCCUQiWlh8SyJa-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-mMTL7mCCUQiWlh8SyJa-12" target="-mMTL7mCCUQiWlh8SyJa-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mMTL7mCCUQiWlh8SyJa-12" value="&quot;A soma dos números é &quot;, soma" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="145.5" y="480" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-mMTL7mCCUQiWlh8SyJa-14" value="fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="195.5" y="600" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
